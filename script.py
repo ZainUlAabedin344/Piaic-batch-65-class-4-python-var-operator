@@ -10,7 +10,7 @@ print ("My age is =", age)
 
 # Operators
 #  -Arthimetic Operators
-# +,-,/,*,**,//,%
+# +,-,/,*,**,//(Floor Division),%(Modulus)
 
 num1 = 20
 num2 = 24
